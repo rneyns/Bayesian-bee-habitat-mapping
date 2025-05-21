@@ -1,5 +1,3 @@
-# Bayesian-bee-habitat-mapping
-
 # Bayesian Nest Suitability Model
 
 This repository contains code and tools for modeling the probability of bee nest presence based on various environmental predictors using a Bayesian logistic regression framework. The model incorporates both linear and nonlinear (quadratic) effects and supports spatial prediction across raster inputs.
